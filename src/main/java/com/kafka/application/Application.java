@@ -11,7 +11,7 @@ import java.util.Arrays;
  * Created by ykurtulus on 4/13/16.
  */
 @SpringBootApplication
-@ComponentScan({"com.spark"})
+@ComponentScan({"com.kafka"})
 public class Application {
 
 

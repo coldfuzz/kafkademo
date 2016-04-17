@@ -14,7 +14,7 @@ import javax.validation.Valid;
  * Created by ykurtulus on 4/15/16.
  */
 @RestController
-@RequestMapping("kafka-demo")
+@RequestMapping("/kafka-demo")
 public class KafkaProducerController {
 
     private static final String TOPIC_NAME ="test";
